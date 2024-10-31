@@ -1,8 +1,8 @@
 {
-  "name": "Apo Reposity | @ApoAkademi",,
-  "description": "havuzun aposu",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/abdullahtpk/cloud2/builds/plugins.json"
-  ]
+    "name": "Cloudstream providers repository",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
+    ]
 }
