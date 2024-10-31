@@ -1,0 +1,8 @@
+{
+  "name": "aponun deposu",
+  "description": "havuzun aposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/abdullahtpk/cloud2/builds/plugins.json"
+  ]
+}
